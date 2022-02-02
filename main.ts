@@ -34,6 +34,3 @@ input.onGesture(Gesture.TiltRight, function () {
         # # # # #
         `)
 })
-basic.forever(function () {
-	
-})
